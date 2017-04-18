@@ -1,0 +1,7 @@
+{
+  "bossmodecg": {
+    "identifier": "Example Frontend",
+    "passphrase": "this_is_an_example_password",
+    "endpoint": "http://${THIS_HOSTNAME}:12800"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "bossmodecg-example-server",
+  "version": "0.0.1",
+  "license": "MIT",
+  "dependencies": {
+    "@bossmodecg/core": "^0.1.0",
+    "@bossmodecg/module-clientele": "^0.1.1",
+    "@bossmodecg/module-example": "^0.1.1",
+    "@bossmodecg/module-obsstudio": "^0.1.1",
+    "@bossmodecg/module-simplestore": "^0.1.1",
+    "@bossmodecg/module-twitch": "^0.1.0",
+    "cross-env": "^3.2.4"
+  },
+  "scripts": {
+    "server": "node -- ./node_modules/@bossmodecg/core/bin/bossmode-server.js"
+  }
+}

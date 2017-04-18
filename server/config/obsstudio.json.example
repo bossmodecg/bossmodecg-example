@@ -1,0 +1,6 @@
+{
+  "url": "IPADDRESS:4444",
+  "password": null,
+  "scenePollInterval": 50,
+  "reconnectInterval": 5000
+}

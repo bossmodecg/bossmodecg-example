@@ -1,0 +1,8 @@
+{
+  "identity": {
+    "username": "twitch_username",
+    "password": "oauth:oauth_password_for_irc"
+  },
+  "oauthClientId": "twitch_oauth_client_id",
+  "channel": "#twitch_username"
+}

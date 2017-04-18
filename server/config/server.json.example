@@ -1,0 +1,22 @@
+{
+  "name": "BossmodeCG Example",
+
+  "frontendAuth": {
+    "Example Frontend": "this_is_an_example_password"
+  },
+  "managementAuth": {
+    "Example Manager": "this_is_another_example_password"
+  },
+
+  "modules": [
+    "example",
+    "simplestore",
+    "clientele",
+    "obsstudio",
+    "twitch"
+  ],
+
+  "automaticPushdowns": [
+    ".*"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "bossmodecg": {
+    "identifier": "Example Manager",
+    "passphrase": "this_is_another_example_password",
+    "endpoint": "http://${THIS_HOSTNAME}:12800"
+  },
+  "management": {
+    "test": 1337
+  }
+}
